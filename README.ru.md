@@ -17,7 +17,7 @@
 1. Скачай и распакуй код бота в удобную тебе папку либо склонируй репозиторий (`git clone https://github.com/RimMirK/ItsCaptchaBot`)
 2. (опционально) Создай и войди в виртуальную среду: `python -m venv .venv`, `.venv\Scripts\activate`
 3. Установи все зависимости: `pip install -r requirements.txt`
-4. Вставь токен бота от [@BotFather](https://t.me/BotFather) в `config.py`
+4. Создай файл `.env` в корне проекта и вставь в него токен бота от [@BotFather](https://t.me/BotFather) в формате `TOKEN=123456789:abcdefgh.....`
 5. Запускай бота командой `python main.py`
 
 ## Мультиязычная поддержка  

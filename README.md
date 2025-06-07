@@ -17,7 +17,7 @@ If you don't pass the captcha within 10 minutes, the bot will simply kick the pa
 1. Download and extract the bot’s code to any folder or clone the repository (`git clone https://github.com/RimMirK/ItsCaptchaBot`)
 2. (optional) Create and activate a virtual environment: `python -m venv .venv`, `.venv\Scripts\activate`
 3. Install all dependencies: `pip install -r requirements.txt`
-4. Insert the bot token from [@BotFather](https://t.me/BotFather) into `config.py`
+4. Create `.env` file in root of project and insert the bot token from [@BotFather](https://t.me/BotFather) into it. Format: `TOKEN=123456789:abcdefgh.....`
 5. Start the bot with the command `python main.py`
 
 ## Multilingual Support  
