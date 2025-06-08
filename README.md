@@ -61,5 +61,9 @@ The bot supports the following languages:
 
 I would be happy if anyone who knows these languages could help fix translations or add a new language. Feel free to reach out through the "Contact" section in Russian, Ukrainian, or English!
 
+## Thanks
+
+- Thanks @just-blackot for adding the `.env` system and spotting the gitignore flaw.
+
 ## Contact  
 Developer: [@RimMirK](https://t.me/RimMirK)
