@@ -65,5 +65,7 @@ I would be happy if anyone who knows these languages could help fix translations
 
 - Thanks @just-blackot for adding the `.env` system and spotting the gitignore flaw.
 
+- Thanks @abbasxan for adding the Azerbaijani translation.
+
 ## Contact  
 Developer: [@RimMirK](https://t.me/RimMirK)
