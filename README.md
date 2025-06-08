@@ -24,7 +24,7 @@ If you don't pass the captcha within 10 minutes, the bot will simply kick the pa
 The bot supports the following languages:
 
 - <span dir="ltr">العربية</span> (Arabic)
-- Azərbaycan (Azerbaijani)
+- Azərbaycan (Azerbaijani) (@Abbasxan)
 - Беларуская (Belarusian)
 - বাংলা (Bengali)
 - Čeština (Czech)
