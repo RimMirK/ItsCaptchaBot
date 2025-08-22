@@ -1,7 +1,14 @@
 # ItsCaptchaBot  
 Captcha for your Telegram chat
 
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 [Переключиться на русский](README.ru.md)
+
+---
+![\#StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine/blob/main/banner-direct-single.svg)
+---
+
 
 **BOT: [@Its_captcha_bot](https://t.me/Its_captcha_bot)**
 
